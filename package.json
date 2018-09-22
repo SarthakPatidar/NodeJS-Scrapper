@@ -1,0 +1,15 @@
+{
+  "name": "medium-scrapping",
+  "version": "1.0.0",
+  "description": "Scrape Medium Links",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "Sarthak",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jsdom": "^12.0.0"
+  }
+}
